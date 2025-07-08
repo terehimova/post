@@ -1,4 +1,4 @@
-trojan://caaacbb-baca-aacb-abcd-cabbabbaaccc@127.0.0.1:1080?security=tls&type=tcp&headerType=none#-%3A%3A1404-04-16
+trojan://caaacbb-baca-aacb-abcd-cabbabbaaccc@127.0.0.1:1080?security=tls&type=tcp&headerType=none#-%3A%3A1404-04-17
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#109.234.211.66
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#15.204.200.208
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#185.243.49.205
