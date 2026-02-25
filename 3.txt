@@ -1,4 +1,4 @@
-trojan://0@127.0.0.1:10808?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%5B%5D%206%20%D8%A7%D8%B3%D9%81%D9%86%D8%AF
+trojan://0@127.0.0.1:10808?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%5B%201404%2F12%2F6%20%20%D8%A8%D8%AE%D8%B4%20%D8%B3%D9%88%D9%85%20%5D
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.197.183.219:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%D8%A2%D9%84%D9%85%D8%A7%D9%86
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.197.183.219:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F#%D8%A2%D9%84%D9%85%D8%A7%D9%86
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.144.181.133:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F#%D8%A2%D9%84%D9%85%D8%A7%D9%86
