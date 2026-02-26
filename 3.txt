@@ -1,4 +1,4 @@
-trojan://0@127.0.0.1:10808?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%5B%20%D9%87%D9%81%D8%AA%D9%85%20%D8%A7%D8%B3%D9%81%D9%86%D8%AF-7%D9%84%DB%8C%D8%B3%D8%AA%20%5D
+trojan://0@127.0.0.1:10808?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%D8%A2-7%D8%A7%D8%B3%D9%81%D9%86%D8%AF7%D8%B3%D8%A7%D8%A8
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.18.32.47:443?encryption=none&security=tls&sni=ProxyVPN11.afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F156.244.1.250%3D8443#%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86
 vless://643a3034-d3f9-4e03-acde-0e6ab3a238fb@104.18.32.47:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F54.203.85.46#%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.0.108:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=1&allowInsecure=1&type=ws&host=afrcloud22.mmv.kr&path=%2F5.223.47.32%3D443#%D8%A2%D9%84%D9%85%D8%A7%D9%86

@@ -1,4 +1,4 @@
-trojan://0@127.0.0.1:10808?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%5B%20%D9%87%D9%81%D8%AA%D9%85%20%D8%A7%D8%B3%D9%81%D9%86%D8%AF-7%D9%84%DB%8C%D8%B3%D8%AA%20%5D
+trojan://0@127.0.0.1:10808?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%D8%A2-7%D8%A7%D8%B3%D9%81%D9%86%D8%AF7%D8%B3%D8%A7%D8%A8
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F#%D8%A2%D9%84%D9%85%D8%A7%D9%86
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F#%D8%A2%D9%84%D9%85%D8%A7%D9%86
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?encryption=none&security=tls&sni=zh.hollowspot.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=zh.hollowspot.ir&path=%2F#%D8%A2%D9%84%D9%85%D8%A7%D9%86
