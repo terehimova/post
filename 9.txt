@@ -1,2 +1,2 @@
-trojan://80@0.0.0.0:80?security=tls&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#%5B%20%D9%87%D8%AC%D8%AF%D9%87%D9%85%20%D9%85%D8%B1%D8%AF%D8%A7%D8%AF%20%5D
-trojan://80@127.0.0.1:80?security=tls&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws#%D9%84%DB%8C%D8%B3%D8%AA%20%D8%AE%D8%A7%D9%84%DB%8C
+trojan://80@0.0.0.0:80?security=tls&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#%5B%20%D8%A7%D9%88%D9%84%20%D8%B4%D9%87%D8%B1%DB%8C%D9%88%D8%B1%20-%20%D9%84%DB%8C%D8%B3%D8%AA%209%20%5D
+trojan://80@127.0.0.1:80?security=tls&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#%D9%84%DB%8C%D8%B3%D8%AA%20%D8%AE%D8%A7%D9%84%DB%8C
