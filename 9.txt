@@ -1,1 +1,4 @@
 trojan://80@0.0.0.0:80?security=tls&alpn=http%2F1.1&type=ws&path=%2F#%5B%D9%84%DB%8C%D8%B3%D8%AA9%20%2030%20%D8%A2%D8%A8%D8%A7%D9%86%5D
+vless://536a876c-d9dd-4474-af16-f55ac6fda132@shiny-flower-25f7.raminwxyz.workers.dev:443?encryption=none&security=tls&sni=shiny-flower-25f7.raminwxyz.workers.dev&fp=chrome&type=ws&host=shiny-flower-25f7.raminwxyz.workers.dev&path=%2Fws#VW
+vless://06e232df-2ce5-491b-8d84-7db5aa994eec@divine-credit-4e5a.raminwxyz.workers.dev:2053?encryption=none&security=tls&sni=divine-credit-4e5a.raminwxyz.workers.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=divine-credit-4e5a.raminwxyz.workers.dev&path=%2Fbk-ws#BlueKnight-VLESS-2053
+vless://7d79bcf9-2aee-4fd5-8f85-f27b5ee47a34@blue-rehi.raminwxyz.workers.dev:443?encryption=none&security=tls&sni=blue-rehi.raminwxyz.workers.dev&fp=firefox&alpn=http%2F1.1&type=ws&host=blue-rehi.raminwxyz.workers.dev&path=%2F%3Fed%3D2048#VLESS%20%C2%B7%20blue-rehi.raminwxyz.workers.dev%3A443
